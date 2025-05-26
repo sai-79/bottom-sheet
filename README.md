@@ -14,7 +14,7 @@ A customizable, animated bottom sheet component built with React. This component
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/react-bottom-sheet.git
+git clone https://github.com/sai-79/bottom-sheet.git
 cd react-bottom-sheet
 npm install
 npm start
