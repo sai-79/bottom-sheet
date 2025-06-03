@@ -1,0 +1,4 @@
+[build]
+  base = "bottom-sheet"
+  command = "npm run build"
+  publish = "build"
